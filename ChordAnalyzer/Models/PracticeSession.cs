@@ -4,7 +4,8 @@ namespace ChordAnalyzer.Models
     {
         public string SkillLevel
         {
-            get; set;
+            get;
+            set;
         }
 
         public PracticeSession(string level)
